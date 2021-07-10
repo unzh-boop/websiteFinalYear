@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'accounts',
     'videos',
     'django_countries',
+    
+    
 
 ]
 
